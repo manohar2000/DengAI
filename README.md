@@ -4,9 +4,8 @@ Dengue fever is a mosquito-borne disease that occurs in tropical and sub-tropica
 
 # Approach
 We tackled this problem by applying stats models and a machine learning model. The evaluation metric was Mean Absolute Error and the following are the results we achieved:
-
-  1)ARIMA model: 32.23
-  2)ARIMAX model: 26.85
-  3)Random Forest Regressor: 24.75
+1)ARIMA model: 32.23
+2)ARIMAX model: 26.85
+3)Random Forest Regressor: 24.75
 
 It is exciting as we were able to achieve a rank of 811 out of 9k teams.
